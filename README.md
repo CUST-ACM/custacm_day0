@@ -1,2 +1,4 @@
-# custacm_day0
-Day 0 as a beginner at CUSTACM
+# CUSTACM 入门资料
+
+
+* [ACM游戏指南](guide.md)
